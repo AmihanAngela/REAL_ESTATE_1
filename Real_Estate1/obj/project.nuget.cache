@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rqv/L2JHu20=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jex\\source\\repos\\Real_Estate1\\Real_Estate1\\Real_Estate1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jex\\.nuget\\packages\\microsoft.azure.amqp\\2.6.9\\microsoft.azure.amqp.2.6.9.nupkg.sha512",
+    "C:\\Users\\Jex\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Jex\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
